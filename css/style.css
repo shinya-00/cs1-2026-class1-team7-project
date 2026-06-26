@@ -5,3 +5,18 @@ h1{
     width: 300px;
     padding-left: 100px;
 }
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 200px;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
