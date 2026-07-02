@@ -14,3 +14,13 @@ img {
     height: auto;
 }
 
+h1 {
+  background-color: rgb(21, 205, 61);
+  padding: 10px;
+}
+
+h2 {
+  background-color: rgb(232, 174, 87);
+  padding: 5px;
+}
+
